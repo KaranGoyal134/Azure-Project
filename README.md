@@ -27,14 +27,14 @@ This project demonstrates the configuration and testing of **Azure Multi-Factor 
 
 | Screenshot | Description |
 |------------|-------------|
-| Screenshot 1 | MFA status page showing enabled user |
-| Screenshot 2 | User account security settings |
+| Screenshot 1 | Azure Active Directory → User list |
+| Screenshot 2 | MFA status page showing enabled user |
 | Screenshot 3 | Authenticator app setup confirmation |
 | Screenshot 4 | Sign-in screen with MFA verification |
-| Screenshot 5 | Sign-in logs with MFA result |
+| Screenshot 5 | Logged in page of Test User 1 |
 | Screenshot 6 | Authentication methods for user |
-| Screenshot 7 | Azure Active Directory → User list |
-| Screenshot 8 | User sign-in activity summary |
+| Screenshot 7 | Sign-in logs with MFA result |
+| Screenshot 8 | User Auth App configuration |
 | Screenshot 9 | User authentication settings overview |
 | Screenshot 10 | No access to license for SSPR |
 
