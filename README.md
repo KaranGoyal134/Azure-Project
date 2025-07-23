@@ -36,6 +36,7 @@ This project demonstrates the configuration and testing of **Azure Multi-Factor 
 | Screenshot 7 | Azure Active Directory → User list |
 | Screenshot 8 | User sign-in activity summary |
 | Screenshot 9 | User authentication settings overview |
+| Screenshot 10 | No access to license for SSPR |
 
 ---
 
@@ -51,6 +52,7 @@ Azure-Project/
 ├── Screenshot_7.png
 ├── Screenshot_8.png
 ├── Screenshot_9.png
+├── Screenshot_10.png
 ├── README.md
 
 ---
